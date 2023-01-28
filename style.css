@@ -1,0 +1,40 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color:blue;
+}
+
+#header_div
+{
+    background-color: aqua;
+    color:coral;
+}
+
+#header_div p{
+color: blueviolet;
+font-family:'roboto', sans-serif;
+letter-spacing: 2px;
+font-size: 15px;
+font-weight: lighter;
+}
+.start{
+  background-color: blue;
+    font-family:'roboto', sans-serif;
+    margin:25px;
+    font-size: 15px;
+    font-weight: bolder; 
+    
+}
+
+.copy_right_footer{
+    color:rgb(1, 183, 255);
+    position:fixed;
+    bottom:0;
+    width:100%;
+    margin-bottom:  0px;
+    font-size: large; 
+    font-weight: bolder;
+    line-height: 3;
+    text-align:center; 
+    background-color: beige;
+    border-radius: 50px;
+}
